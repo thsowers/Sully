@@ -1,0 +1,7 @@
+[package]
+name = "sully"
+version = "0.1.0"
+authors = ["thsowers <tyler@startrakstudios.com>"]
+edition = "2018"
+
+[dependencies]
